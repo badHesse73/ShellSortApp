@@ -1,0 +1,16 @@
+C:\Users\DELL\Downloads\ShellSortApp\bin\Debug\net8.0-windows\ShellSortApp.exe
+C:\Users\DELL\Downloads\ShellSortApp\bin\Debug\net8.0-windows\ShellSortApp.deps.json
+C:\Users\DELL\Downloads\ShellSortApp\bin\Debug\net8.0-windows\ShellSortApp.runtimeconfig.json
+C:\Users\DELL\Downloads\ShellSortApp\bin\Debug\net8.0-windows\ShellSortApp.dll
+C:\Users\DELL\Downloads\ShellSortApp\bin\Debug\net8.0-windows\ShellSortApp.pdb
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.Form1.resources
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.AssemblyInfo.cs
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.dll
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\refint\ShellSortApp.dll
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.pdb
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ShellSortApp.genruntimeconfig.cache
+C:\Users\DELL\Downloads\ShellSortApp\obj\Debug\net8.0-windows\ref\ShellSortApp.dll
